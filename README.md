@@ -17,3 +17,5 @@
   ## a.Amazon Prime Video
   ## b.Hulu
   ## c.Disney
+  
+  <img src="https://github.com/Dan-Freda/Project1-3/blob/main/Resources/pictures/Screenshot%20(45).png">
