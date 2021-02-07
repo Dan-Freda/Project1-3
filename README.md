@@ -1,5 +1,3 @@
-# Project1-3
-
 # Netflix in the Age of the Streaming Wars
 
 # Conduct exploratory data analysis utilizing datasets comprising the Netflix content library, in addition to its primary competitors with attention to features such as:
