@@ -4,14 +4,14 @@
 
 # Conduct exploratory data analysis utilizing datasets comprising the Netflix content library, 
 # in addition to its primary competitors with attention to features such as:
-  # a.Content type
-  # b.Genre
-   # c.National origin
-  # d.Release date (Films)
-  # e.Date added.
-  # f.Age guidance ratings.
-  # g.IMDb and Rotten Tomatoes Ratings (quality of content indicators)
-  # h.Netflix Original productions
+  ## a.Content type
+  ## b.Genre
+  ## c.National origin
+  ## d.Release date (Films)
+  ## e.Date added.
+  ## f.Age guidance ratings.
+  ## g.IMDb and Rotten Tomatoes Ratings (quality of content indicators)
+  ## h.Netflix Original productions
 
 # 1)Visualize summary data analysis. 
 # 2)Identify observed trends and changes in the composition of Netflix content over time.
